@@ -2,7 +2,7 @@
 This repository is deprecated and all the work has been moved to https://github.com/asgardio/asgardio-android-oidc-sdk.
 
 # Run this Android Sample App 
-
+gsgs
 ## Register Application
 
 1. Register an application with the following callback-url.
